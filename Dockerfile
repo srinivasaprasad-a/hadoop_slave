@@ -1,4 +1,4 @@
-FROM hadoop_ubuntu:2.9
+FROM srinivasaprasada/hadoop_ubuntu:2.9
 MAINTAINER SrinivasaPrasadA
 
 USER root
